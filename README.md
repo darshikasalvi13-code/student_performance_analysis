@@ -83,9 +83,17 @@ Performed:
 ## 5. Data Visualization
 Generated:
 - Bar Charts
+- <img width="709" height="686" alt="image" src="https://github.com/user-attachments/assets/51b66df5-c703-43ac-9c54-a27c60d79256" />
+
 - Scatter Plots
+- <img width="753" height="576" alt="image" src="https://github.com/user-attachments/assets/3c6e05a2-ade8-4b6b-9b40-8767a93630b9" />
+
 - Grade Distribution
+- <img width="715" height="564" alt="image" src="https://github.com/user-attachments/assets/77c5d86a-c750-4dc0-ae1a-a14ec8ff74a2" />
+
 - Correlation Heatmap
+- <img width="765" height="667" alt="image" src="https://github.com/user-attachments/assets/8e693ed8-19e4-46cf-a6bf-27edc636b8e9" />
+
 
 ## 6. Machine Learning
 Built a Linear Regression model to predict student total marks using:
